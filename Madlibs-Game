@@ -1,0 +1,27 @@
+
+
+# MADLIBS 
+
+measurement = input('Enter a measurement: ')
+feeling_1 = input('Enter a feeling: ') 
+feeling_2 = input('Enter a feeling: ') 
+noun_3 = input('Enter a noun: ') 
+adjective_1 = input('Enter an adjective: ')
+number_1 = input('Enter a number: ')
+adjective_2 = input('Enter an adjective: ')
+adjective_3 = input('Enter an adjective: ')
+verb_1 = input('Enter a verb: ')
+verb_2 = input('Enter a verb: ')
+number_2 = input('Enter a number: ')
+adjective_4 = input('Enter an adjective: ')
+verb_3 = input('Enter a verb: ')
+verb_4 = input('Enter a verb: ')
+verb_5 = input('Enter a verb: ')
+adjective_5 = input('Enter an adjective: ')
+adjective_6 = input('Enter an adjective: ')
+verb_6 = input('Enter a verb: ')
+adjective_7 = input('Enter an adjective: ')
+
+print(f'\nSeveral hundred years ago, humans were nearly exterminated by titans. Titans are typically several {measurement} tall, seem to have no {feeling_1},{feeling_2} for human beings and, worst of all, seem to do it in order to kill and eat humans for {noun_3} instead of a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely {adjective_1} walls, even taller than the {adjective_2} of titans.\n\nFast forward to present day and the city has not seen a titan in over {number_1} years. Eren and his {adjective_3} close friend Mikasa witness something horrific as the city walls are {verb_1} by a colossal titan that appears out of thin air and {verb_2} charges into the walls, creating an opening for other titans to enter. As {number_2} {adjective_4} titans flood the city, the two kids {verb_3}, {verb_4} and {verb_5} in horror as Eren\'s mother is eaten alive by a(n) {adjective_5} {adjective_6} female titan. Eren vows that he will {verb_6} every single titan and take revenge for all of mankind and put an end to this {adjective_7} atrosity.\n')
+
+#-------------------------------------------------------------------------------
